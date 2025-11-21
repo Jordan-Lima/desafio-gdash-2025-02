@@ -6,4 +6,11 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "ignr>=2.2",
+    "numpy>=2.3.5",
+    "openmeteo-requests>=1.7.4",
+    "pandas>=2.3.3",
+    "pytest>=9.0.1",
+    "requests-cache>=1.2.1",
+    "retry-requests>=2.0.0",
+    "ruff>=0.14.6",
 ]
